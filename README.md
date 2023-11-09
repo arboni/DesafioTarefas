@@ -1,4 +1,4 @@
-# DesafioTarefas
+# DesafioGerenciador de Tarefas - Loir Task
 Desafio proposto para desenvolver um gerenciador de tarefas
 Stack - Tecnológico - PHP, Javascript, Bootstrap, Css, HTML5
 
