@@ -14,7 +14,7 @@ Abrir o navegador no seguinte endereço: localhost/phpmyadmin.
 Selecionar a aba Sql, colar o conteúdo do arquivo loirTask.sql, após este passo selecionar a opção executar do PHP Myadmin
 
 Feito isto, o banco de dados está criado em sua máquina local.
-digitando o endereço: localhost/loirTask será redirecionado para a página principal do sistema.
+digitando o endereço: (http://localhost/loirTask/pages/) será redirecionado para a página principal do sistema.
 
 📋 Pré-requisitos
 Xampp - instalado na máquina de teste
